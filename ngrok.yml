@@ -1,0 +1,18 @@
+authtoken: 1lmtu5hXDqXV3NaPH8YajVboOvd_2vFH3ezyXr9Z1pHnSB4Jz
+tunnels:
+  nodered:
+    addr: 1880
+    proto: http
+    bind_tls: false
+  grafana:
+    addr: 3000
+    proto: http
+    bind_tls: false
+  chronograf:
+    addr: 8888
+    proto: http
+    bind_tls: false
+  inspect:
+    addr: 4040
+    proto: http
+    bind_tls: false
