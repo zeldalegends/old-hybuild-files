@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    This is the payload: [object Object] !
+    File updated: 1611260153208 !
   </body>
 </html>
