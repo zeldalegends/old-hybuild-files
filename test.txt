@@ -1,1 +1,6 @@
-new test
+<!DOCTYPE html>
+<html>
+  <body>
+    This is the payload: [object Object] !
+  </body>
+</html>
